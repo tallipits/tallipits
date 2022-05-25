@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tallipits
-- 👀 I’m interested in Full Stack dev (React, Python, Node)
-- 🌱 I’m currently learning ML and Web3
-- 💞️ I’m looking to collaborate on projects which can help many people
+- 👀 I’m interested in frontend, backend, data.. 
+- 🌱 I’m trying to keep it no-zero-days when it comes to learning tech.
+- 💞️ I’m looking to collaborate on projects which do good to other people.
 - 📫 How to reach me: talipi@gmail.com, https://twitter.com/TalLipits, https://www.linkedin.com/in/tal-lipits/
 
 <!---
